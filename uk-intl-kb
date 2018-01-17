@@ -60,7 +60,7 @@ xkb_symbols "intlextd" {
     key <AB07> { [	     m,          	M,            	     mu,            	U00B1 ] };
     key <AB08> { [       comma,       	     less,  	   dead_cedilla,      dead_belowcomma ] };
     key <AB09> { [      period,    	  greater, 	  	  U22C5,    	dead_abovedot ] };
-    key <AB10> { [       slash,  	 question,  	   questiondown,      	  dead_ogonek ] };
+    key <AB10> { [       slash,  	 question,  	   questiondown,      	     ellipsis ] };
     key <BKSL> { [  numbersign,        asciitilde,           dead_tilde,       dead_abovering ] };
 
     key <LSGT> { [   backslash,               bar,     	      brokenbar,   	dead_belowdot ] };
