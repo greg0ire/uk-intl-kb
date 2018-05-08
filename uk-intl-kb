@@ -12,7 +12,7 @@ xkb_symbols "intlextd" {
 
     include "latin"
     name[Group1]= "English (International, Extended)";
-    key <TLDE> { [       grave,    	 notsign,            dead_grave,          dead_macron ] };
+    key <TLDE> { [  dead_grave,    	 notsign,                 grave,          dead_macron ] };
     key <AE01> { [	     1,     	  exclam,    	     exclamdown,           dead_breve ] };
     key <AE02> { [	     2,            U0022,    	 dead_diaeresis, 	  twosuperior ] };
     key <AE03> { [	     3, 	   U00A3, 		    yen, 	threesuperior ] };
