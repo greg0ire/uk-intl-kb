@@ -12,11 +12,11 @@ xkb_symbols "intlextd" {
 
     include "latin"
     name[Group1]= "English (International, Extended)";
-    key <TLDE> { [  dead_grave,    	 notsign,                 grave,          dead_macron ] };
-    key <AE01> { [	     1,     	  exclam,    	     exclamdown,           dead_breve ] };
-    key <AE02> { [	     2,            U0022,    	 dead_diaeresis, 	  twosuperior ] };
-    key <AE03> { [	     3, 	  U1F4A9, 		    yen, 	threesuperior ] };
-    key <AE04> { [	     4,     	  dollar,      	       EuroSign,         	U00BC ] };
+    key <TLDE> { [  dead_grave,     	  notsign,                grave,          dead_macron ] };
+    key <AE01> { [	     1,     	   exclam,    	     	  U26A0,           dead_breve ] };
+    key <AE02> { [	     2,             U0022,    	 dead_diaeresis, 	  twosuperior ] };
+    key <AE03> { [	     3, 	   U1F4A9,		 U1F44D, 	threesuperior ] };
+    key <AE04> { [	     4,     	   dollar,     	       EuroSign,         	U00BC ] };
     key <AE05> { [	     5,    	  percent,           dead_caron,      	    	U00BD ] };
     key <AE06> { [           6,   dead_circumflex,           circumflex,      	threequarters ] };
     key <AE07> { [	     7,  	ampersand,  leftdoublequotemark,   doublelowquotemark ] };
